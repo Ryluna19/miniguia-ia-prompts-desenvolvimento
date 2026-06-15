@@ -22,6 +22,14 @@ Com este caderno temático, busquei entender melhor:
 
 ---
 
+## Como este material foi criado
+
+O material foi construído a partir de um caderno temático no NotebookLM. Primeiro, selecionei fontes abertas sobre IA, LLMs, engenharia de prompts e desenvolvimento de software. Depois, testei diferentes perguntas para comparar os resultados gerados pela IA.
+
+As respostas mais úteis foram salvas, revisadas e reorganizadas neste README em formato de miniguia, com foco em estudo, revisão futura e aplicação prática no desenvolvimento de software.
+
+---
+
 ## Fontes utilizadas
 
 As fontes foram selecionadas e adicionadas ao NotebookLM para servir como base do estudo. Entre elas, foram utilizadas referências sobre LLMs, engenharia de prompts, programação assistida por IA e boas práticas de uso de IA no desenvolvimento.
