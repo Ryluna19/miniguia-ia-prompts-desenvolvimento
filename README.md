@@ -84,6 +84,20 @@ Esse formato deixou a comparação mais fácil de entender e mais útil para rev
 
 ---
 
+### Respostas obtidas
+
+A partir dos prompts testados, o NotebookLM retornou respostas mais úteis quando as perguntas incluíam contexto, objetivo claro e formato esperado.
+
+Os principais resultados obtidos foram:
+
+* Um resumo estruturado sobre o uso de IA no ciclo de vida de desenvolvimento de software;
+* Uma comparação entre técnicas de prompt, como zero-shot, few-shot, role prompting e chain-of-thought;
+* Um glossário com conceitos essenciais sobre IA, LLMs e engenharia de prompts;
+* Uma lista de prompts reutilizáveis para estudo, debugging, revisão de código, testes e segurança;
+* Uma análise dos principais cuidados ao usar IA para gerar ou revisar código.
+
+---
+
 ## Cicatrizes e aprendizados
 
 Durante o uso do NotebookLM, percebi que perguntas muito abertas geravam respostas amplas demais. Quando eu pedia apenas “explique sobre IA no desenvolvimento”, o resultado era correto, mas pouco prático.
