@@ -24,15 +24,15 @@ Com este caderno temático, busquei entender melhor:
 
 ## Fontes utilizadas
 
-As fontes foram selecionadas e adicionadas ao NotebookLM para servir como base do estudo. Entre elas, foram utilizadas fontes sobre LLMs, engenharia de prompts, programação assistida por IA e boas práticas de uso de IA no desenvolvimento.
+As fontes foram selecionadas e adicionadas ao NotebookLM para servir como base do estudo. Entre elas, foram utilizadas referências sobre LLMs, engenharia de prompts, programação assistida por IA e boas práticas de uso de IA no desenvolvimento.
 
 Principais fontes usadas:
 
-1. **Prompt Engineering | OpenAI API**
-2. **Machine Learning Glossary | Google Developers**
-3. **What Are Large Language Models (LLMs)? | IBM**
-4. **IA no contexto de desenvolvimento de software | IBM**
-5. **Structured Chain-of-Thought Prompting for Code Generation**
+1. [Prompt Engineering | OpenAI API](https://developers.openai.com/api/docs/guides/prompt-engineering)
+2. [Machine Learning Glossary | Google Developers](https://developers.google.com/machine-learning/glossary)
+3. [What Are Large Language Models (LLMs)? | IBM](https://www.ibm.com/think/topics/large-language-models)
+4. [AI in Software Development | IBM](https://www.ibm.com/think/topics/ai-in-software-development)
+5. [Structured Chain-of-Thought Prompting for Code Generation](https://arxiv.org/abs/2305.06599)
 
 > Observação: durante a montagem do caderno no NotebookLM, outras fontes complementares também foram consultadas para comparar explicações e enriquecer o conteúdo.
 
